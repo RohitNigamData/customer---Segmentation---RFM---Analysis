@@ -1,9 +1,8 @@
-# Executive Customer Segmentation Pipeline (RFM Optimization Model)
+
+<img width="1307" height="731" alt="Screenshot 2026-05-21 202145" src="https://github.com/user-attachments/assets/469b74ad-25da-45a2-8ebb-e9b681baadb5" />
 
 ## 📌 Project Overview & Objective
 This end-to-end data analytics project is performed on transactional datasets to identify high-value customer cohorts, at-risk segments, and new growth opportunities. By implementing a statistical *RFM (Recency, Frequency, Monetary)* model, this pipeline translates raw transaction logs into actionable business strategies. The final multi-page interactive Power BI dashboard is designed to drive personalized marketing strategies, reduce Customer Acquisition Costs (CAC), and maximize Customer Lifetime Value (CLV).
-
----
 
 ## 🛠️ Tech Stack & Architecture
 * *Data Engineering & Analytics:* Python (Pandas, NumPy)
@@ -11,10 +10,7 @@ This end-to-end data analytics project is performed on transactional datasets to
 * *Data Visualization & Modeling:* Power BI Desktop
 * *Statistical Approach:* Quantile-based Bucketing (pd.qcut) for dynamic behavioral scoring.
 
----
-
 ## 📊 Key Business Insights & Data Storytelling
-
 Based on the final pipeline analysis, 5 critical customer segments were isolated to drive data-backed strategic decisions:
 
 1. *VIP / Champions (High Recency, High Frequency, High Monetary):* * Insight: These customers represent the highest revenue concentration despite lower volume.
